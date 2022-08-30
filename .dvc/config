@@ -1,0 +1,7 @@
+[core]
+    analytics = false
+    remote = google-drive
+['remote "gdrive"']
+    url = gdrive://1C5Tr-HDo-2lpJtjk0kDfJ9EH_L0ek9aP/dvcstore
+['remote "google-drive"']
+    url = gdrive://1C5Tr-HDo-2lpJtjk0kDfJ9EH_L0ek9aP/dvcstore
