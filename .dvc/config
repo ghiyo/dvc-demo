@@ -1,9 +1,0 @@
-[core]
-    analytics = false
-    remote = google-drive
-    check_update = true
-    autostage = true
-['remote "gdrive"']
-    url = gdrive://1C5Tr-HDo-2lpJtjk0kDfJ9EH_L0ek9aP/dvcstore
-['remote "google-drive"']
-    url = gdrive://1C5Tr-HDo-2lpJtjk0kDfJ9EH_L0ek9aP/dvcstore
